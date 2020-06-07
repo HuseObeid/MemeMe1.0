@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "A3126D3F-E946-4BBE-A5BA-DECBF7AB660B"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2AF78EC4-B6F5-48B7-BCC2-DDFD59334095"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MemeMe1.0/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "17"
+            endingLineNumber = "17"
+            landmarkName = "meme"
+            landmarkType = "14">
+            <Locations>
+               <Location
+                  uuid = "2AF78EC4-B6F5-48B7-BCC2-DDFD59334095 - e4d9ec455d1bc336"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MemeMe1_0.ViewController.imagePickerView.getter : Swift.Optional&lt;__C.UIImageView&gt;"
+                  moduleName = "MemeMe1.0"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/husseinobeid/Desktop/MemeMe1.0/MemeMe1.0/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  uuid = "2AF78EC4-B6F5-48B7-BCC2-DDFD59334095 - dfbfe6850c319702"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MemeMe1_0.ViewController.imagePickerView.setter : Swift.Optional&lt;__C.UIImageView&gt;"
+                  moduleName = "MemeMe1.0"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/husseinobeid/Desktop/MemeMe1.0/MemeMe1.0/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "104">
+               </Location>
+               <Location
+                  uuid = "2AF78EC4-B6F5-48B7-BCC2-DDFD59334095 - 586d1eed8c21ae35"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MemeMe1_0.ViewController.imagePickerView.modify : Swift.Optional&lt;__C.UIImageView&gt;"
+                  moduleName = "MemeMe1.0"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/husseinobeid/Desktop/MemeMe1.0/MemeMe1.0/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "67">
+               </Location>
+               <Location
+                  uuid = "2AF78EC4-B6F5-48B7-BCC2-DDFD59334095 - 8652b7b6b7c66a39"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MemeMe1_0.ViewController.imagePickerView.modify : Swift.Optional&lt;__C.UIImageView&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "MemeMe1.0"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/husseinobeid/Desktop/MemeMe1.0/MemeMe1.0/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "76">
+               </Location>
+               <Location
+                  uuid = "2AF78EC4-B6F5-48B7-BCC2-DDFD59334095 - ec29dc6eb4170d85"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MemeMe1_0.ViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; MemeMe1_0.ViewController"
+                  moduleName = "MemeMe1.0"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/husseinobeid/Desktop/MemeMe1.0/MemeMe1.0/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "375">
+               </Location>
+               <Location
+                  uuid = "2AF78EC4-B6F5-48B7-BCC2-DDFD59334095 - e9d187a06c0c4ac1"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MemeMe1_0.ViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;MemeMe1_0.ViewController&gt;"
+                  moduleName = "MemeMe1.0"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/husseinobeid/Desktop/MemeMe1.0/MemeMe1.0/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "313">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
